@@ -1,0 +1,42 @@
+
+header{
+    display: flex;
+    background-color: rgb(255, 51, 0);
+    
+   
+   
+   
+
+
+}
+
+header li,a{
+     text-decoration: none;
+    list-style-type: none;
+    color: aliceblue;
+}
+header ul {
+    display: flex;
+    gap: 30px;
+    margin-left: 60%;
+    
+   
+}
+header ul input{
+     height: 20px;
+     width: 50%;
+}
+nav{
+    text-align: center;
+}
+div .child .img1{
+    display: flex;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    border:px soild black;
+
+}
+div .parent{
+    display: flex;
+    margin-left: auto;
+}
